@@ -1,6 +1,6 @@
 # MyParkourGame
 A 2d parkour game based on cocos2dx
-# screenshots
+# Screenshots
 ![](https://github.com/tashaxing/MyParkourGame/raw/master/pic/demo.gif)<br/>
 ![](https://github.com/tashaxing/MyParkourGame/raw/master/pic/1.png)<br/>
 ![](https://github.com/tashaxing/MyParkourGame/raw/master/pic/2.png)<br/>
@@ -10,5 +10,5 @@ A 2d parkour game based on cocos2dx
 ![](https://github.com/tashaxing/MyParkourGame/raw/master/pic/6.png)<br/>
 ![](https://github.com/tashaxing/MyParkourGame/raw/master/pic/7.png)<br/>
 ![](https://github.com/tashaxing/MyParkourGame/raw/master/pic/8.png)<br/>
-# blog address
+# Blog address
 http://blog.csdn.net/u012234115/article/details/48275387
